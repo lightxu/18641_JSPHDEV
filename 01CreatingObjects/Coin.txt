@@ -1,0 +1,43 @@
+The side that is initially facing up is tails
+Round 0
+The side that is facing up is tails
+Round 1
+The side that is facing up is tails
+Round 2
+The side that is facing up is tails
+Round 3
+The side that is facing up is tails
+Round 4
+The side that is facing up is heads
+Round 5
+The side that is facing up is tails
+Round 6
+The side that is facing up is heads
+Round 7
+The side that is facing up is tails
+Round 8
+The side that is facing up is tails
+Round 9
+The side that is facing up is heads
+Round 10
+The side that is facing up is tails
+Round 11
+The side that is facing up is heads
+Round 12
+The side that is facing up is heads
+Round 13
+The side that is facing up is heads
+Round 14
+The side that is facing up is tails
+Round 15
+The side that is facing up is tails
+Round 16
+The side that is facing up is heads
+Round 17
+The side that is facing up is heads
+Round 18
+The side that is facing up is tails
+Round 19
+The side that is facing up is tails
+The number of times the heads is facing up 8
+The number of times the tails is facing up 12

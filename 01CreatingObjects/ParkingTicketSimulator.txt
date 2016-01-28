@@ -1,0 +1,63 @@
+Police Officer Info: 
+Name: Jack
+Badge number: PO001
+====================
+
+
+TEST CASE 1: Park 30 minutes
+
+Parked Car Info: 
+  Make: BMW
+  Model: T8
+  Color: black
+  License number: 00001
+  Parked minutes: 30
+================
+
+TEST SUCCESS.
+
+
+
+TEST CASE 2: Park 120 minutes
+
+Parked Car Info: 
+  Make: TOYOTA
+  Model: RAV4
+  Color: blue
+  License number: 00002
+  Parked minutes: 120
+================
+
+The fine is 25.
+
+TEST SUCCESS.
+
+
+
+TEST CASE 3: Park 59 minutes
+
+Parked Car Info: 
+  Make: MAZDA
+  Model: CX-9
+  Color: black
+  License number: 00003
+  Parked minutes: 59
+================
+
+TEST SUCCESS.
+
+
+
+TEST CASE 4: Park 300 minutes
+
+Parked Car Info: 
+  Make: Ford
+  Model: F-150
+  Color: red
+  License number: 00004
+  Parked minutes: 300
+================
+
+The fine is 55.
+
+TEST SUCCESS.
